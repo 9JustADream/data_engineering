@@ -1,0 +1,4 @@
+csv: 16706900 bytes
+json: 50578372 bytes
+msgpack: 47648808 bytes
+pkl: 17889699 bytes
