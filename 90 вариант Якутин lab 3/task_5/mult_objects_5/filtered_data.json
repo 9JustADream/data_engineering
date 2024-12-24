@@ -1,0 +1,499 @@
+[
+    {
+        "Name": "Mountains of Madness",
+        "Ancient Ones": [
+            {
+                "Ancient One Name": "Elder Things",
+                "Mysteries": [
+                    {
+                        "Mystery Name": "An Alien Ritual",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "An Expedition Compromised",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "At the Mountains of Madness",
+                        "Mystery Type": "Eldritch Tokens"
+                    },
+                    {
+                        "Mystery Name": "Binding the Dark God",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Discovery of an Ancient Civilization",
+                        "Mystery Type": "Research Encounter"
+                    },
+                    {
+                        "Mystery Name": "Invasion of the Elder Things",
+                        "Mystery Type": "Item Requirement, Epic Monster"
+                    },
+                    {
+                        "Mystery Name": "Mysterious Disappearances",
+                        "Mystery Type": "Special Encounter"
+                    },
+                    {
+                        "Mystery Name": "The Dark God's Prison Crumbles",
+                        "Mystery Type": "Miscellaneous"
+                    }
+                ]
+            },
+            {
+                "Ancient One Name": "Ithaqua",
+                "Mysteries": [
+                    {
+                        "Mystery Name": "A Spreading Storm",
+                        "Mystery Type": "Research Encounter"
+                    },
+                    {
+                        "Mystery Name": "Exploring Hyperborea",
+                        "Mystery Type": "Special Encounter"
+                    },
+                    {
+                        "Mystery Name": "Growing Hunger",
+                        "Mystery Type": "Eldritch Tokens"
+                    },
+                    {
+                        "Mystery Name": "Hyperborean Aurora",
+                        "Mystery Type": "Item Requirement, Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "The Gnoph-Keh Attack!",
+                        "Mystery Type": "Research Encounter, Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Supplying the North",
+                        "Mystery Type": "Item Requirement, Eldritch Tokens"
+                    }
+                ]
+            }
+        ],
+        "Investigators": [
+            "Agnes Baker",
+            "Daisy Walker",
+            "Finn Edwards",
+            "George Barnaby",
+            "Patrice Hathaway",
+            "Tommy Muldoon",
+            "Ursula Downs",
+            "Wilson Richards"
+        ],
+        "Assets": [
+            {
+                "Asset Name": "Astronomy Guidebook",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Blunderbuss",
+                "Asset Trait": "Item — Weapon",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Courier Needed!",
+                "Asset Trait": "Service",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Cultist's Journal",
+                "Asset Trait": "Item — Magical Tome",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Gambler's Dice",
+                "Asset Trait": "Trinket",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Genealogy Research",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Investment",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Map of the Ley Lines",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "4"
+            },
+            {
+                "Asset Name": "Mineralogy Research",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Monster Hunter",
+                "Asset Trait": "Ally",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Newspaper Report",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Patrolling the Streets",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Profane Tome",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Secret Page",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Search the Archives",
+                "Asset Trait": "Service",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Tome of Horrors",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "3"
+            }
+        ],
+        "Unique_assets": [
+            {
+                "Asset Name": "Anna Tilton",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Antarctic Guide",
+                "Asset Trait": "Ally",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Constance Hawberk",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Courier Run",
+                "Asset Trait": "Task",
+                "Asset Count": "4"
+            },
+            {
+                "Asset Name": "Danforth",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Dog Sled",
+                "Asset Trait": "Ally",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Dr. Hiram Upham",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Esteban Herrero",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Father Merluzzo",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "For the Greater Good",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Henry Wilcox",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Kid O'Brien",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Old Journal",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "4"
+            },
+            {
+                "Asset Name": "Professor Armitage",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Provisions",
+                "Asset Trait": "Item",
+                "Asset Count": "4"
+            },
+            {
+                "Asset Name": "Purifying the World",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Sacrifices to Make",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Sealing the Old Ones",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Sir William Brinton",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Walking the Ley Lines",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "William Dyer",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            }
+        ]
+    },
+    {
+        "Name": "The Dreamlands",
+        "Ancient Ones": [
+            {
+                "Ancient One Name": "Atlach-Nacha",
+                "Mysteries": [
+                    {
+                        "Mystery Name": "Beasts from Beyond",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Caught in the Web",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Severing the Links",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Shroud of the Spider-Mother",
+                        "Mystery Type": "Research Encounter"
+                    },
+                    {
+                        "Mystery Name": "Sleeper of N'kai",
+                        "Mystery Type": "Epic Monster"
+                    },
+                    {
+                        "Mystery Name": "The Brood",
+                        "Mystery Type": "Item Requirement, Epic Monster"
+                    }
+                ]
+            },
+            {
+                "Ancient One Name": "Hypnos",
+                "Mysteries": [
+                    {
+                        "Mystery Name": "Descending the Steps",
+                        "Mystery Type": "Miscellaneous"
+                    },
+                    {
+                        "Mystery Name": "Dream Within a Dream",
+                        "Mystery Type": "Special Encounter"
+                    },
+                    {
+                        "Mystery Name": "Dreamwalker",
+                        "Mystery Type": "Special Encounter"
+                    },
+                    {
+                        "Mystery Name": "Master of Dreams",
+                        "Mystery Type": "Research Encounter"
+                    },
+                    {
+                        "Mystery Name": "The Hubris of Man",
+                        "Mystery Type": "Item Requirement"
+                    },
+                    {
+                        "Mystery Name": "Visions of Hypnos",
+                        "Mystery Type": "Miscellaneous"
+                    }
+                ]
+            }
+        ],
+        "Investigators": [
+            "Amanda Sharpe",
+            "Carolyn Fern",
+            "Darrell Simmons",
+            "Gloria Goldberg",
+            "Kate Winthrop",
+            "Luke Robinson",
+            "Vincent Lee",
+            "William Yorick"
+        ],
+        "Assets": [
+            {
+                "Asset Name": "Alchemical Concoction",
+                "Asset Trait": "Item — Magical",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Arcanist",
+                "Asset Trait": "Ally",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Camera",
+                "Asset Trait": "Item",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Divination",
+                "Asset Trait": "Service",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Dream Box",
+                "Asset Trait": "Trinket — Magical",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Dream Diary",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Enchanted Bow",
+                "Asset Trait": "Item — Magical Weapon",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Forbidden Text",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Hitman",
+                "Asset Trait": "Ally",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Night Classes",
+                "Asset Trait": "Service",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Occult Grimoire",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Otherworld Codex",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "2"
+            },
+            {
+                "Asset Name": "Police Raid",
+                "Asset Trait": "Service",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Seek the Truth",
+                "Asset Trait": "Task",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Skeleton Keys",
+                "Asset Trait": "Trinket",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Willful Aristocrat",
+                "Asset Trait": "Ally",
+                "Asset Count": "4"
+            }
+        ],
+        "Unique_assets": [
+            {
+                "Asset Name": "Ace of Swords",
+                "Asset Trait": "Trinket — Tarot",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Basil Elton",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Bury Them Deep",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Death XIII",
+                "Asset Trait": "Trinket — Tarot",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Dimensional Study",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Five of Pentacles",
+                "Asset Trait": "Trinket — Tarot",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Flux Stabilizer",
+                "Asset Trait": "Item",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Four of Cups",
+                "Asset Trait": "Trinket — Tarot",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Miss Doyle",
+                "Asset Trait": "Ally",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Mythos Codex",
+                "Asset Trait": "Item — Tome",
+                "Asset Count": "4"
+            },
+            {
+                "Asset Name": "Randolph Carter",
+                "Asset Trait": "Ally — Character",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "The Moon XVIII",
+                "Asset Trait": "Trinket — Tarot",
+                "Asset Count": "1"
+            },
+            {
+                "Asset Name": "Unspeakable Research",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            },
+            {
+                "Asset Name": "Walking the Ley Lines",
+                "Asset Trait": "Task",
+                "Asset Count": "3"
+            }
+        ]
+    }
+]

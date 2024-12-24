@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Stone Calendar",
+        "Card Type": "Unique Asset",
+        "Tags": "Relic",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "Yes",
+        "Variants": 2,
+        "Effect_text": "When you gain this card from the deck, you may move the Omen counterclockwise by 1 without advancing Doom.",
+        "Reckoning_text": "The alignment of the stars is right. Flip this card."
+    },
+    {
+        "Name": "Wooden Puppet",
+        "Card Type": "Unique Asset",
+        "Tags": "Relic",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "Yes",
+        "Variants": 2,
+        "Effect_text": "Once per round, you may reroll 1 die when resolving a test.",
+        "Reckoning_text": "The puppet acts on its own. Flip this card."
+    }
+]

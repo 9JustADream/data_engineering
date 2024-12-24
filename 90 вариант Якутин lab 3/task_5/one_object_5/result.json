@@ -1,0 +1,125 @@
+[
+    {
+        "Name": "Exploring the Ruins",
+        "Card Type": "Unique Asset",
+        "Tags": "Task",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 3,
+        "Effect_text": "After resolving an Expedition Encounter or a Mystic Ruins Encounter, you may spend 1 Focus to place 1 Focus on this card. Then you may flip this card."
+    },
+    {
+        "Name": "Agency Secrets",
+        "Card Type": "Unique Asset",
+        "Tags": "Item",
+        "Effect": "No",
+        "Action": "Yes",
+        "Reckoning": "No",
+        "Variants": 4,
+        "Action_text": "Test strenth. If you pass, you strike a deal with the Agency to assist one another; flip this card."
+    },
+    {
+        "Name": "Bury Them Deep",
+        "Card Type": "Unique Asset",
+        "Tags": "Task",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 3,
+        "Effect_text": "When a non-Epic Monster is defeated or discarded, you may spend 1 Focus to place that Monster on this card. Then you may flip this card."
+    },
+    {
+        "Name": "Courier Run",
+        "Card Type": "Unique Asset",
+        "Tags": "Task",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 8,
+        "Effect_text": "When you gain this card from the deck, place 1 random Clue that corresponds to a City space faceup on this card. After resolving a location encounter on that space, flip this card."
+    },
+    {
+        "Name": "Duke",
+        "Card Type": "Unique Asset",
+        "Tags": "Ally",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 1,
+        "Effect_text": "Once per round, you may reroll 1 die when resolving a test.When you perform a Rest action, recover 1 additional  Sanity."
+    },
+    {
+        "Name": "Flux Stabilizer",
+        "Card Type": "Unique Asset",
+        "Tags": "Item",
+        "Effect": "Yes",
+        "Action": "Yes",
+        "Reckoning": "No",
+        "Variants": 1,
+        "Effect_text": "If a Gate would spawn on your space, discard that Gate instead.",
+        "Action_text": "Move 1 Monster on your space to an adjacent space."
+    },
+    {
+        "Name": "Purifying the World",
+        "Card Type": "Unique Asset",
+        "Tags": "Task",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 6,
+        "Effect_text": "When you defeat a non-Epic Monster during a Combat Encounter, place that Monster on this card. Then you may flip this card."
+    },
+    {
+        "Name": "Stone Calendar",
+        "Card Type": "Unique Asset",
+        "Tags": "Relic",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "Yes",
+        "Variants": 2,
+        "Effect_text": "When you gain this card from the deck, you may move the Omen counterclockwise by 1 without advancing Doom.",
+        "Reckoning_text": "The alignment of the stars is right. Flip this card."
+    },
+    {
+        "Name": "Treasure Map",
+        "Card Type": "Unique Asset",
+        "Tags": "Trinket",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 4,
+        "Effect_text": "When you gain this card from the deck, place 1 random Clue faceup on this card.After resolving a location encounter or an Expedition Encounter on that space, flip this card."
+    },
+    {
+        "Name": "Walking the Ley Lines",
+        "Card Type": "Unique Asset",
+        "Tags": "Task",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 6,
+        "Effect_text": "When you close a Gate during an Other World Encounter, place that Gate on this card. Then you may flip this card."
+    },
+    {
+        "Name": "William Dyer",
+        "Card Type": "Unique Asset",
+        "Tags": "Ally",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "No",
+        "Variants": 1,
+        "Effect_text": "When you gain this card from the deck, gain 2 Clues.You may spend 1 Clue to add 1 success to your test result when resolving a test on the Antarctica side board."
+    },
+    {
+        "Name": "Wooden Puppet",
+        "Card Type": "Unique Asset",
+        "Tags": "Relic",
+        "Effect": "Yes",
+        "Action": "No",
+        "Reckoning": "Yes",
+        "Variants": 2,
+        "Effect_text": "Once per round, you may reroll 1 die when resolving a test.",
+        "Reckoning_text": "The puppet acts on its own. Flip this card."
+    }
+]
