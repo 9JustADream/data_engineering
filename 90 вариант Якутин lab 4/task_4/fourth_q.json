@@ -1,0 +1,425 @@
+[
+    {
+        "category": "cosmetics",
+        "fromCity": "Махадаонда",
+        "count": 3,
+        "price_avg": 110.406,
+        "price_max": 188.32800000000003,
+        "views_avg": 66849.0,
+        "views_max": 86097
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Краков",
+        "count": 2,
+        "price_avg": 34.965,
+        "price_max": 35.95,
+        "views_avg": 63908.5,
+        "views_max": 99823
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Таллин",
+        "count": 2,
+        "price_avg": 40.95,
+        "price_max": 51.08,
+        "views_avg": 89023.5,
+        "views_max": 97508
+    },
+    {
+        "category": "tools",
+        "fromCity": "Осера",
+        "count": 2,
+        "price_avg": 80.298,
+        "price_max": 139.216,
+        "views_avg": 32041.5,
+        "views_max": 40630
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Артейхо",
+        "count": 1,
+        "price_avg": 101.73,
+        "price_max": 101.73,
+        "views_avg": 2232.0,
+        "views_max": 2232
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Астана",
+        "count": 1,
+        "price_avg": 59.27,
+        "price_max": 59.27,
+        "views_avg": 80844.0,
+        "views_max": 80844
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Баку",
+        "count": 1,
+        "price_avg": 68.38,
+        "price_max": 68.38,
+        "views_avg": 7465.0,
+        "views_max": 7465
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Ереван",
+        "count": 1,
+        "price_avg": 33.87,
+        "price_max": 33.87,
+        "views_avg": 66495.0,
+        "views_max": 66495
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Загреб",
+        "count": 1,
+        "price_avg": 16.36,
+        "price_max": 16.36,
+        "views_avg": 82490.0,
+        "views_max": 82490
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Камбадос",
+        "count": 1,
+        "price_avg": 82.05,
+        "price_max": 82.05,
+        "views_avg": 29591.0,
+        "views_max": 29591
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Мартоса",
+        "count": 1,
+        "price_avg": 89.64,
+        "price_max": 89.64,
+        "views_avg": 41772.0,
+        "views_max": 41772
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Мурсия",
+        "count": 1,
+        "price_avg": 40.93,
+        "price_max": 40.93,
+        "views_avg": 96605.0,
+        "views_max": 96605
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Овьедо",
+        "count": 1,
+        "price_avg": 30.05,
+        "price_max": 30.05,
+        "views_avg": 98052.0,
+        "views_max": 98052
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Осера",
+        "count": 1,
+        "price_avg": 30.12,
+        "price_max": 30.12,
+        "views_avg": 68552.0,
+        "views_max": 68552
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Санхенхо",
+        "count": 1,
+        "price_avg": 48.57,
+        "price_max": 48.57,
+        "views_avg": 63604.0,
+        "views_max": 63604
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Скопье",
+        "count": 1,
+        "price_avg": 76.8,
+        "price_max": 76.8,
+        "views_avg": 63236.0,
+        "views_max": 63236
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Тарраса",
+        "count": 1,
+        "price_avg": 53.67,
+        "price_max": 53.67,
+        "views_avg": 32999.0,
+        "views_max": 32999
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Трухильо",
+        "count": 1,
+        "price_avg": 32.31,
+        "price_max": 32.31,
+        "views_avg": 32155.0,
+        "views_max": 32155
+    },
+    {
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "count": 1,
+        "price_avg": 53.5,
+        "price_max": 53.5,
+        "views_avg": 51135.0,
+        "views_max": 51135
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Аликанте",
+        "count": 1,
+        "price_avg": 22.48,
+        "price_max": 22.48,
+        "views_avg": 59722.0,
+        "views_max": 59722
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Барселона",
+        "count": 1,
+        "price_avg": 16.740000000000002,
+        "price_max": 16.740000000000002,
+        "views_avg": 12831.0,
+        "views_max": 12831
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Варшава",
+        "count": 1,
+        "price_avg": 79.15,
+        "price_max": 79.15,
+        "views_avg": 28907.0,
+        "views_max": 28907
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Малага",
+        "count": 1,
+        "price_avg": 214.04400000000004,
+        "price_max": 214.04400000000004,
+        "views_avg": 88623.0,
+        "views_max": 88623
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Осера",
+        "count": 1,
+        "price_avg": 20.56,
+        "price_max": 20.56,
+        "views_avg": 22340.0,
+        "views_max": 22340
+    },
+    {
+        "category": "fruit",
+        "fromCity": "Фигерас",
+        "count": 1,
+        "price_avg": 230.55400000000003,
+        "price_max": 230.55400000000003,
+        "views_avg": 63609.0,
+        "views_max": 63609
+    },
+    {
+        "category": "tools",
+        "fromCity": "Аликанте",
+        "count": 1,
+        "price_avg": 83.67,
+        "price_max": 83.67,
+        "views_avg": 73168.0,
+        "views_max": 73168
+    },
+    {
+        "category": "tools",
+        "fromCity": "Алма-Ата",
+        "count": 1,
+        "price_avg": 48.63,
+        "price_max": 48.63,
+        "views_avg": 56614.0,
+        "views_max": 56614
+    },
+    {
+        "category": "tools",
+        "fromCity": "Астана",
+        "count": 1,
+        "price_avg": 74.01,
+        "price_max": 74.01,
+        "views_avg": 98165.0,
+        "views_max": 98165
+    },
+    {
+        "category": "tools",
+        "fromCity": "Баку",
+        "count": 1,
+        "price_avg": 27.57,
+        "price_max": 27.57,
+        "views_avg": 1333.0,
+        "views_max": 1333
+    },
+    {
+        "category": "tools",
+        "fromCity": "Будапешт",
+        "count": 1,
+        "price_avg": 45.77,
+        "price_max": 45.77,
+        "views_avg": 82633.0,
+        "views_max": 82633
+    },
+    {
+        "category": "tools",
+        "fromCity": "Бургос",
+        "count": 1,
+        "price_avg": 68.48,
+        "price_max": 68.48,
+        "views_avg": 89729.0,
+        "views_max": 89729
+    },
+    {
+        "category": "tools",
+        "fromCity": "Валенсия",
+        "count": 1,
+        "price_avg": 33.83,
+        "price_max": 33.83,
+        "views_avg": 87189.0,
+        "views_max": 87189
+    },
+    {
+        "category": "tools",
+        "fromCity": "Вильнюс",
+        "count": 1,
+        "price_avg": 138.61,
+        "price_max": 138.61,
+        "views_avg": 98056.0,
+        "views_max": 98056
+    },
+    {
+        "category": "tools",
+        "fromCity": "Камбадос",
+        "count": 1,
+        "price_avg": 19.1,
+        "price_max": 19.1,
+        "views_avg": 83212.0,
+        "views_max": 83212
+    },
+    {
+        "category": "tools",
+        "fromCity": "Кордова",
+        "count": 1,
+        "price_avg": 15.030000000000001,
+        "price_max": 15.030000000000001,
+        "views_avg": 2743.0,
+        "views_max": 2743
+    },
+    {
+        "category": "tools",
+        "fromCity": "Лас-Росас",
+        "count": 1,
+        "price_avg": 77.68,
+        "price_max": 77.68,
+        "views_avg": 62042.0,
+        "views_max": 62042
+    },
+    {
+        "category": "tools",
+        "fromCity": "Малага",
+        "count": 1,
+        "price_avg": 47.99,
+        "price_max": 47.99,
+        "views_avg": 75553.0,
+        "views_max": 75553
+    },
+    {
+        "category": "tools",
+        "fromCity": "Минск",
+        "count": 1,
+        "price_avg": 50.8,
+        "price_max": 50.8,
+        "views_avg": 90505.0,
+        "views_max": 90505
+    },
+    {
+        "category": "tools",
+        "fromCity": "Мурсия",
+        "count": 1,
+        "price_avg": 91.63,
+        "price_max": 91.63,
+        "views_avg": 69851.0,
+        "views_max": 69851
+    },
+    {
+        "category": "tools",
+        "fromCity": "Навалькарнеро",
+        "count": 1,
+        "price_avg": 64.47,
+        "price_max": 64.47,
+        "views_avg": 67755.0,
+        "views_max": 67755
+    },
+    {
+        "category": "tools",
+        "fromCity": "Пласенсия",
+        "count": 1,
+        "price_avg": 14.59,
+        "price_max": 14.59,
+        "views_avg": 75021.0,
+        "views_max": 75021
+    },
+    {
+        "category": "tools",
+        "fromCity": "Подгорица",
+        "count": 1,
+        "price_avg": 23.27,
+        "price_max": 23.27,
+        "views_avg": 84394.0,
+        "views_max": 84394
+    },
+    {
+        "category": "tools",
+        "fromCity": "Сан-Себастьян",
+        "count": 1,
+        "price_avg": 61.86,
+        "price_max": 61.86,
+        "views_avg": 75507.0,
+        "views_max": 75507
+    },
+    {
+        "category": "tools",
+        "fromCity": "Сараево",
+        "count": 1,
+        "price_avg": 47.9,
+        "price_max": 47.9,
+        "views_avg": 56538.0,
+        "views_max": 56538
+    },
+    {
+        "category": "tools",
+        "fromCity": "Ташкент",
+        "count": 1,
+        "price_avg": 19.12,
+        "price_max": 19.12,
+        "views_avg": 60619.0,
+        "views_max": 60619
+    },
+    {
+        "category": "tools",
+        "fromCity": "Тирана",
+        "count": 1,
+        "price_avg": 12.77,
+        "price_max": 12.77,
+        "views_avg": 53444.0,
+        "views_max": 53444
+    },
+    {
+        "category": "tools",
+        "fromCity": "Фигерас",
+        "count": 1,
+        "price_avg": 84.94,
+        "price_max": 84.94,
+        "views_avg": 51146.0,
+        "views_max": 51146
+    }
+]

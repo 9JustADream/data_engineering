@@ -1,0 +1,74 @@
+[
+    {
+        "id": 575,
+        "tournament_name": "Кубок мира 1969",
+        "place": 0,
+        "prise": 41000000
+    },
+    {
+        "id": 822,
+        "tournament_name": "Кубок мира 1969",
+        "place": 1,
+        "prise": 20500000
+    },
+    {
+        "id": 4,
+        "tournament_name": "Кубок мира 1969",
+        "place": 2,
+        "prise": 10250000
+    },
+    {
+        "id": 184,
+        "tournament_name": "Кубок мира 1969",
+        "place": 3,
+        "prise": 5125000
+    },
+    {
+        "id": 588,
+        "tournament_name": "Кубок мира 1969",
+        "place": 4,
+        "prise": 2562500
+    },
+    {
+        "id": 554,
+        "tournament_name": "Кубок мира 1969",
+        "place": 5,
+        "prise": 1281250
+    },
+    {
+        "id": 233,
+        "tournament_name": "Кубок мира 1969",
+        "place": 6,
+        "prise": 640625
+    },
+    {
+        "id": 670,
+        "tournament_name": "Кубок мира 1969",
+        "place": 7,
+        "prise": 320312
+    },
+    {
+        "id": 21,
+        "tournament_name": "Кубок мира 1969",
+        "place": 8,
+        "prise": 160156
+    },
+    {
+        "id": 145,
+        "tournament_name": "Кубок мира 1969",
+        "place": 9,
+        "prise": 80078
+    },
+    {
+        "id": 844,
+        "tournament_name": "Кубок мира 1969",
+        "place": 10,
+        "prise": 40039
+    },
+    {
+        "id": 315,
+        "tournament_name": "Кубок мира 1969",
+        "place": 11,
+        "prise": 20020
+    }
+]

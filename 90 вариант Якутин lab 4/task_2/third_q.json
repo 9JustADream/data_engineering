@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Пальма 1964",
+        "prise_found": 211746092,
+        "place_count": 9
+    },
+    {
+        "name": "Тилбург 1990",
+        "prise_found": 167302734,
+        "place_count": 10
+    },
+    {
+        "name": "Тилбург 1966",
+        "prise_found": 99975585,
+        "place_count": 11
+    },
+    {
+        "name": "Линарес 1958",
+        "prise_found": 97997009,
+        "place_count": 14
+    },
+    {
+        "name": "Шамкович 2010",
+        "prise_found": 97904296,
+        "place_count": 9
+    },
+    {
+        "name": "Sinquefield Cup 1993",
+        "prise_found": 95953125,
+        "place_count": 10
+    },
+    {
+        "name": "Вена 1952",
+        "prise_found": 95625000,
+        "place_count": 7
+    },
+    {
+        "name": "Sinquefield Cup 1979",
+        "prise_found": 94500000,
+        "place_count": 5
+    },
+    {
+        "name": "Пойковский 1954",
+        "prise_found": 93632813,
+        "place_count": 7
+    },
+    {
+        "name": "Аэрофлот Опен 1995",
+        "prise_found": 91997193,
+        "place_count": 14
+    }
+]

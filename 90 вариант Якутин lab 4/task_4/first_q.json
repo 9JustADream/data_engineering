@@ -1,0 +1,112 @@
+[
+    {
+        "id": 84,
+        "name": "nice axe",
+        "price": 74.01,
+        "quantity": 936,
+        "category": "tools",
+        "fromCity": "Астана",
+        "isAvailable": "True",
+        "views": 98165,
+        "version": 12
+    },
+    {
+        "id": 11,
+        "name": "magnificent perfume",
+        "price": 42.24,
+        "quantity": 631,
+        "category": "cosmetics",
+        "fromCity": "Махадаонда",
+        "isAvailable": "True",
+        "views": 71322,
+        "version": 11
+    },
+    {
+        "id": 44,
+        "name": "nice plum",
+        "price": 230.55400000000003,
+        "quantity": 641,
+        "category": "fruit",
+        "fromCity": "Фигерас",
+        "isAvailable": "False",
+        "views": 63609,
+        "version": 11
+    },
+    {
+        "id": 125,
+        "name": "nice plum",
+        "price": 214.04400000000004,
+        "quantity": 608,
+        "category": "fruit",
+        "fromCity": "Малага",
+        "isAvailable": "False",
+        "views": 88623,
+        "version": 11
+    },
+    {
+        "id": 40,
+        "name": "sublime siding",
+        "price": 139.216,
+        "quantity": 828,
+        "category": "tools",
+        "fromCity": "Осера",
+        "isAvailable": "True",
+        "views": 23453,
+        "version": 10
+    },
+    {
+        "id": 85,
+        "name": "pretty nail polish",
+        "price": 33.87,
+        "quantity": 534,
+        "category": "cosmetics",
+        "fromCity": "Ереван",
+        "isAvailable": "True",
+        "views": 66495,
+        "version": 9
+    },
+    {
+        "id": 87,
+        "name": "sublime windows",
+        "price": 15.030000000000001,
+        "quantity": 378,
+        "category": "tools",
+        "fromCity": "Кордова",
+        "isAvailable": "True",
+        "views": 2743,
+        "version": 9
+    },
+    {
+        "id": 8,
+        "name": "luxurious trim",
+        "price": 21.38,
+        "quantity": 370,
+        "category": "tools",
+        "fromCity": "Осера",
+        "isAvailable": "True",
+        "views": 40630,
+        "version": 8
+    },
+    {
+        "id": 10,
+        "name": "magnificent tape measure",
+        "price": 138.61,
+        "quantity": 600,
+        "category": "tools",
+        "fromCity": "Вильнюс",
+        "isAvailable": "True",
+        "views": 98056,
+        "version": 7
+    },
+    {
+        "id": 15,
+        "name": "amazing wheelbarrow",
+        "price": 61.86,
+        "quantity": 878,
+        "category": "tools",
+        "fromCity": "Сан-Себастьян",
+        "isAvailable": "True",
+        "views": 75507,
+        "version": 7
+    }
+]
