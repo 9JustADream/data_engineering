@@ -1,0 +1,74 @@
+[
+    {
+        "column_name": "date",
+        "memory_abs": "197509",
+        "memory_per": 71.7725,
+        "dtype": "object"
+    },
+    {
+        "column_name": "amount",
+        "memory_abs": "14337",
+        "memory_per": 5.2101,
+        "dtype": "category"
+    },
+    {
+        "column_name": "id",
+        "memory_abs": "10395",
+        "memory_per": 3.7775,
+        "dtype": "int32"
+    },
+    {
+        "column_name": "merchant_id",
+        "memory_abs": "10395",
+        "memory_per": 3.7775,
+        "dtype": "int32"
+    },
+    {
+        "column_name": "zip",
+        "memory_abs": "10395",
+        "memory_per": 3.7775,
+        "dtype": "float32"
+    },
+    {
+        "column_name": "merchant_city",
+        "memory_abs": "6148",
+        "memory_per": 2.2344,
+        "dtype": "category"
+    },
+    {
+        "column_name": "merchant_state",
+        "memory_abs": "5213",
+        "memory_per": 1.8945,
+        "dtype": "category"
+    },
+    {
+        "column_name": "client_id",
+        "memory_abs": "5197",
+        "memory_per": 1.8888,
+        "dtype": "int16"
+    },
+    {
+        "column_name": "card_id",
+        "memory_abs": "5197",
+        "memory_per": 1.8888,
+        "dtype": "int16"
+    },
+    {
+        "column_name": "mcc",
+        "memory_abs": "5197",
+        "memory_per": 1.8888,
+        "dtype": "int16"
+    },
+    {
+        "column_name": "errors",
+        "memory_abs": "2600",
+        "memory_per": 0.9451,
+        "dtype": "category"
+    },
+    {
+        "column_name": "use_chip",
+        "memory_abs": "2599",
+        "memory_per": 0.9445,
+        "dtype": "category"
+    }
+]
